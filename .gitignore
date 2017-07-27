@@ -104,3 +104,5 @@ ENV/
 .idea/*
 
 static/uploads/*
+
+db.sqlite3
